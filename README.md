@@ -1,4 +1,4 @@
-# etec
+# Etec Pinhal
 Curso Técnico em Informática para Internet
 
 ## Etec Dr. Carolino da Motta e Silva
